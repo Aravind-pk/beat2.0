@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+ }
+ body{
+   height:100vh;
+   background:linear-gradient(45deg,#ea2c2d 50%,#0f1236 50%);
+ }
+ .row{
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+ }
+ .col-lg-5 img{
+   height: 460px;
+}
+ .login img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+ }
+ .logincard{
+   border-radius: 30px;
+   /* border-bottom-right-radius: 30px; */
+}
+ .login h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: 'Stick No Bills', sans-serif;
+ }
+ .login .form-row img{
+    padding-right: 0.5rem;
+    height: 40px;
+    width: 40px;
+ }
+ .inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: -3px 2px 26px -10px rgba(0,0,0,0.75); -webkit-box-shadow: -3px 2px 26px -10px rgba(0,0,0,0.75); -moz-box-shadow: -3px 2px 26px -10px rgba(0,0,0,0.75);
+ }
+ .btn-1{
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background-color: #0f1236;
+    color: #fff;
+ }
+ .btn-1:hover{
+     background: navy;
+     transition: 0.5s;
+ }
+ @media(max-width:1440px) {
+    body{
+      height:100vh;
+    }
+   .col-lg-5 img{
+      height: 465px;
+   }
+ }
+ @media(max-width:990px) {
+   body{
+      height: auto;
+      width: auto;
+      background:linear-gradient(45deg,#ea2c2d 50%,#0f1236 50%);
+    }
+   .col-lg-5 img{
+      width: 700px;
+   }
+   .login img{
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      border-bottom-left-radius: 0;
+   }
+   .logincard{
+      border-radius: 30px !important;
+      /* border-bottom-right-radius: 30px; */
+   }
+   .form-row{
+      padding-right: 45px;
+   }
+}

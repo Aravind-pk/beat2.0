@@ -1,0 +1,96 @@
+[09-Oct-2021 04:36:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:36:37 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:36:37 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:36:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 04:36:54 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:36:54 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:36:54 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:36:54 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 04:37:16 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:16 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:16 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 04:37:17 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:17 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:17 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:17 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 04:37:19 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:19 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:19 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 04:37:21 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:21 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:21 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:21 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 04:37:57 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:57 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:57 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 3
+[09-Oct-2021 04:37:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/index.php on line 6
+[09-Oct-2021 05:03:12 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/submit.php on line 3
+[09-Oct-2021 05:03:12 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/submit.php on line 3
+[09-Oct-2021 05:03:12 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/submit.php on line 3
+[09-Oct-2021 05:03:12 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/submit.php on line 6
+[09-Oct-2021 05:06:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:41 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:41 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:06:43 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:43 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:43 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:06:52 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:52 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:52 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:06:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:07:00 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:00 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:00 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:07:16 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:16 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:16 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:07:51 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:51 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:51 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:07:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:08:06 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:08:06 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:08:06 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:08:06 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:08:08 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:08:08 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:08:08 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:08:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:09:15 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:09:15 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:09:15 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 3
+[09-Oct-2021 05:09:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/saveteamdata.php on line 12
+[09-Oct-2021 05:34:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:34:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:34:22 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:34:22 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 10
+[09-Oct-2021 05:34:27 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:34:27 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:34:27 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:34:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 10
+[09-Oct-2021 05:35:47 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:35:47 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:35:47 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:35:47 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 10
+[09-Oct-2021 05:35:56 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:35:56 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:35:56 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 8
+[09-Oct-2021 05:35:56 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ezitmxze/btg.istetkmce.in/createteam/myteam.php on line 10
