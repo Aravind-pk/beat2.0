@@ -1,0 +1,241 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+  }
+  
+  html,
+  body {
+    scroll-behavior: smooth;
+    background-color:#14235a;
+  }
+  
+  html {
+    overflow: hidden;
+  }
+  
+  body {
+    height: 100vh;
+    width: 100vw;
+    perspective: 1px;
+    transform-style: preserve-3d;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  .container-fluid {
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow:hidden;
+  }
+
+        
+  li {
+    list-style-type: none;
+
+}
+
+
+
+#bg {
+    background-image: url('https://wallpapercave.com/wp/wp4844549.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2vmin;
+}
+
+
+
+#bg-2 {
+
+    background-image: url('https://www.seelatest.com/images/ipl-2020-tournament-begin-from-19-september-opening-sharjah.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2vmin;
+
+}
+
+.block {
+    
+    display: block;
+    width: 100%;
+    color: white;
+    border: none;
+    border-right: 2px solid white;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.block-f {
+    display: block;
+    width: 100%;
+    color: white;
+    border: none;
+    border-right: 2px solid white;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.block:hover {
+    display: block;
+    width: 100%;
+    border: none;
+
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+
+.block:focus {
+    display: block;
+    width: 100%;
+    border: none;
+    border-left: 2px solid rgb(31, 28, 28);
+    border-right: 2px solid rgb(31, 28, 28);
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+.block:active {
+    display: block;
+    width: 100%;
+    border: none;
+    color: black;
+    border-left: 2px solid rgb(31, 28, 28);
+    border-right: 2px solid rgb(31, 28, 28);
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+.block-f:active {
+    display: block;
+    width: 100%;
+    border: none;
+    color: black;
+    border-left: 2px solid rgb(31, 28, 28);
+    border-right: 2px solid rgb(31, 28, 28);
+
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+
+
+#header1 {
+
+    background-image: url('before-cut.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2vmin;
+    background-origin: padding-box;
+    background-position-y: 65%;
+    background-position-x: 15%;
+
+}
+
+#upper-nav {
+
+  background: #0e1738;
+    border-radius: 5px;
+    color: white;
+}
+
+#nav-11-img {
+    width:60px;
+}
+
+.bg-1 {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+  }
+  
+  .bg-1 {
+    background: #ed3b16;
+    transform: rotate(10deg) scale(2);
+    left: -25.5%;
+    z-index: -1;
+    height:100vh;
+    
+  }
+  
+  .bg-1::before {
+    content: "";
+    position: absolute;
+    background: #14235a;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    top: -15%;
+    left: 100%;
+  }
+
+  #myTeam{
+      background:#0e1738;
+  }
+
+  .footer {
+    width: 100%;
+    color: white;
+    font-weight: 600;
+    font-size: 0.9em;
+    background:#0e1738;
+    
+    font-family: 'Roboto', sans-serif;
+   position:absolute;
+   bottom:-5%;
+
+   
+
+
+}
+
+
+.footer a{
+    text-decoration:none;
+ 
+}
+
+.footer .btn{
+    margin-bottom:10px;
+    margin-top:10px;
+    background:#ed3b16;
+
+}
+.iste-logo-footer{
+    height:50px;
+    filter:invert(100%);
+    display:block;
+    position:fixed;
+    left:10px;
+    bottom:10px;
+}
+.bat-gif-footer{
+    right:10px;
+    bottom:10px;
+    display:block;
+    position:fixed;
+    height:50px;
+}

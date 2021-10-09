@@ -25,8 +25,8 @@ const setMyteam = () => {
 
     // console.log(player.skill)
 
-    playerhtml += `<div class = "col-12 text-center shadow-lg  mb-1 bg-white rounded-pill mx-auto" style = " border:1px solid orange;overflow:hidden;" >
-        <div class = "row my-auto p-2" style = "background-color:black; color:white;">
+    playerhtml += `<div class = "col-12 text-center shadow-lg  mb-1 bg-white rounded-pill mx-auto" style = " border:2px solid #ed3b16;overflow:hidden;" >
+        <div class = "row my-auto p-2" style = "background-color:#0e1738; color:white;">
         <div class = "col-3" style = "font-weight:500;text-transform:uppercase;font-size:.9em;">
         </div>
         <div class = "col-3" style = "font-weight:500;text-transform:uppercase;font-size:.9em;">
@@ -47,8 +47,8 @@ const setMyteam = () => {
 const setPlayers = () => {
   playersList = players.reduce((playerhtml, player) => {
     if (player.skill === activeTab) {
-      playerhtml += `<div class = "col-12 text-center shadow-lg  mb-1 bg-white rounded-pill  mx-auto" style = " border:1px solid orange; background-color:black; overflow:hidden;" >
-            <div class = "row my-auto p-2" style = "background-color:black;">
+      playerhtml += `<div class = "col-12 text-center shadow-lg  mb-1 bg-white rounded-pill  mx-auto" style = " border:2px solid #ed3b16; background-color:#0e1738; overflow:hidden;" >
+            <div class = "row my-auto p-2" style = "background-color:#0e1738;">
             <div class = "col-4"style = "color:white;font-weight:500;text-transform:uppercase;font-size:.9em; " >
             <li >${player.name}</div>
             <div class = "col-2" style = "color:white;font-weight:500;text-transform:uppercase;font-size:.9em;">
@@ -259,6 +259,7 @@ function countFunc() {
 
 function glowLeave(parent) {
   parent.style.border = "10px solid #495057";
+  // parent.style.borderColor = "transparent" this code make the border disapear on mouse leave
 }
 
 function glowEnter(parent) {
@@ -270,14 +271,14 @@ function glowEnter3(parent) {
 }
 //extra added by luhta
 function glowEnter2(parent) {
-  parent.style.border = ".25vmin solid orange";
+  parent.style.border = ".25vmin solid #ed3b16";
 }
 function glowLeave2(parent) {
   parent.style.border = ".25vmin solid #495057";
 }
 
 function glowEnter3(parent) {
-  parent.style.border = ".25vmin solid orange";
+  parent.style.border = ".25vmin solid #ed3b16";
 }
 function glowLeave3(parent) {
   parent.style.border = ".25vmin solid #495057";

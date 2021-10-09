@@ -12,8 +12,8 @@ const setMyteam = () => {
     } else badge = "";
 
     // console.log(player.skill)
-
-    playerhtml += `<div class = "col-12 text-center shadow-lg  mb-1 bg-white rounded-pill mx-auto" style = " border:1px solid orange;overflow:hidden;" >
+    
+    playerhtml += `<div class = "col-12 text-center shadow-lg  mb-1 bg-white rounded-pill mx-auto" style = " border:1px solid #0e1738;overflow:hidden;" >
         <div class = "row my-auto p-2" style = "background-color:black; color:white;">
         <div class = "col-3" style = "font-weight:500;text-transform:uppercase;font-size:.9em;">
          <img class = "img-responsive img-fluid rounded-circle img-thumbnail " style="height:25px ; width:25px " src=${player.imageSrc}></div>
@@ -58,14 +58,14 @@ function glowEnter3(parent) {
 }
 //extra added by luhta
 function glowEnter2(parent) {
-  parent.style.border = ".25vmin solid orange";
+  parent.style.border = ".25vmin solid #ed3b16";
 }
 function glowLeave2(parent) {
   parent.style.border = ".25vmin solid #495057";
 }
 
 function glowEnter3(parent) {
-  parent.style.border = ".25vmin solid orange";
+  parent.style.border = ".25vmin solid #ed3b16";
 }
 function glowLeave3(parent) {
   parent.style.border = ".25vmin solid #495057";
